@@ -23,7 +23,6 @@ public class Main {
             // DEATH - dm the default UI should stay.
         }
         MainWin theWin = new MainWin("CSV Manipulator");
-        System.out.println("Hmm");
         theWin.showWindow();
     }
 
