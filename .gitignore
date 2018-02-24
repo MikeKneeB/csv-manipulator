@@ -1,0 +1,6 @@
+# Git ignore for csv manipulator. We don't need the outputs, but we will
+# include the build .jar.
+doc
+out
+.idea/workspace.xml
+*.csv
